@@ -24,6 +24,11 @@ main {
     padding: 20px;
 }
 
+img { 
+border:black solid;
+margin-right: 20px;
+}
+
 footer {
     position: sticky;
     bottom: 0;
